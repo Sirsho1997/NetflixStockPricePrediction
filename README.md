@@ -13,3 +13,5 @@ find the optimal weights. )
 depends on multiple variables such as a change in top management, seasonal inflation rates, etc for which data is hard to
 collect.
 - Python libraries used: Keras, Pandas, Numpy, and Matplotlib.
+
+Inspired by tutorial here: https://www.section.io/engineering-education/stock-price-prediction-using-python/
